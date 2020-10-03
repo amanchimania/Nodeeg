@@ -3,7 +3,12 @@ var x
 var y
 y
 =10
-=20
-=30
+
+var z
+=6
+
+x=2
 console.log("Great")
 console.log(x)
+console.log(y)
+console.log(z)
